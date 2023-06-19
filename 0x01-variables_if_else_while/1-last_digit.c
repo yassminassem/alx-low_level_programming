@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
-* main- prints a text according number
+* main - prints a text according number
 *Return: Always (success)
 *
 */
@@ -10,7 +10,7 @@ int main(void)
 {
 int n, lastd;
 srand(time(0));
-n = rand() - Rand_Max / 2;
+n = rand() - RAND_MAZ / 2;
 lastd = n % 10;
 if (lastd > 5)
 {
