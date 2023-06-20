@@ -4,7 +4,7 @@
 * @c: the charcter to be checked
 *return: 1 for lowercase charcter or 0 for anything else
 */
-int _islower(int c)
+int _islower(intc)
 {
 if (c >= 97 && c <= 122)
 {
