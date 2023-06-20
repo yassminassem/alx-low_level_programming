@@ -1,6 +1,6 @@
 #include"main.h"
 /**
-* Print_sign - prints the sign of a number
+* _Print_sign - prints the sign of a number
 * @n: the number to be checked
 * Return: 1 for positve num, -1 for negative num or zero for anything else
 */
