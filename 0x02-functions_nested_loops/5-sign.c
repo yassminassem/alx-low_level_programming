@@ -10,6 +10,7 @@ if ( n > 0)
 {
 _putchar(43);
 return (1);
+r = print_sign(98);
 }
 else if (n <0)
 {
