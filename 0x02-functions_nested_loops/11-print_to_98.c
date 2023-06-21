@@ -19,7 +19,7 @@ break;
 }
 else
 {
-print("%d, ", n);
+printf("%d, ", n);
 }
 }
 }
