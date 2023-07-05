@@ -11,7 +11,7 @@ return (_sqrt(n, 1));
 }
 /**
 * _sqrt - calculates natural square root
-* @n; number to calculate natural square root
+* @n: number to calculate natural square root
 * @i: itreate number
 */
 int _sqrt(int n, int i)
