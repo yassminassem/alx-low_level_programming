@@ -6,7 +6,7 @@
 * Return: pointer to the byte in 's' that matches one of the bytes in 'accept'
   * or NULL if no such byte is found.
   */
-int _pow_recursion(int x, int y);
+int _pow_recursion(int x, int y)
 {
 if (y < 0)
          return(-1);
