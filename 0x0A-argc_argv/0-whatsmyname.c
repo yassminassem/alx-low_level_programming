@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
-* main - prints its name 
-* @argc: argument count
-* @argv: argument vector
-* Return: Always zero
+* main - prints program name, follwed by a new line
+* @argc: int
+* @argv: list
+* Return: 0
 */
 int main(int argc, char const *argv[])
 {
